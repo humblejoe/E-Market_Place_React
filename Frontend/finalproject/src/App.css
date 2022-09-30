@@ -1,0 +1,226 @@
+.userinformation{
+    background-color: bisque;
+    padding: 20px, 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.userinformation label{
+    background-color: bisque;
+    display: list-item;
+    
+
+    text-align: center;
+    border-radius: 10px;
+}
+
+.userdeletion{
+    background-color: bisque;
+    padding: 20px, 20px;
+    text-align: center;
+
+}
+
+
+.userdeletion label{
+    background-color: bisque;
+    display: list-item;
+
+    text-align: center;
+    border-radius: 10px;
+}
+
+.userdeletion input{
+    background-color: azure;
+    border-radius:  10px;
+    border-color: coral;
+}
+
+.userinformation button{
+    background-color: chocolate;
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+
+}
+
+.userinformation h2{
+  text-align: center;
+  font-size: 16px;
+  border-radius: 10px;
+
+}
+
+.userdeletion{
+    background-color: coral;
+    padding: 20px, 20px;
+}
+
+
+.userdeletion button{
+    background-color: chocolate;
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+
+}
+
+
+.userupdate{
+    background-color: bisque;
+    padding: 20px, 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+.userupdate label{
+    background-color: bisque;
+    display: list-item;
+
+    text-align: center;
+    border-radius: 10px;
+}
+
+.userupdate button{
+    background-color: chocolate;
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+
+}
+
+
+.customers_update{
+    background-color: bisque;
+    padding: 20px, 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+
+.customers_update label{
+    background-color: bisque;
+    display: list-item;
+
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.orderupdate{
+    background-color: bisque;
+    padding: 20px, 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+
+.orderupdate label{
+    background-color: bisque;
+    display: list-item;
+
+    text-align: center;
+    border-radius: 10px;
+}
+
+.orderupdate button{
+    background-color: chocolate;
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+
+}
+
+
+
+.searchproduct{
+    background-color: bisque;
+    padding: 20px, 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+
+.searchproduct label{
+    background-color: bisque;
+    display: list-item;
+
+    text-align: center;
+    border-radius: 10px;
+}
+
+.searchproduct button{
+    background-color: chocolate;
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+
+}
+
+
+.productdisplay{
+    background-color: bisque;
+    padding: 20px, 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dashed;
+    border-color: aqua;
+    
+
+}
+
+.productdisplay h3{
+    background-color: bisque;
+    padding: 20px, 20px;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dashed;
+    border-color: aqua;
+    border-width: medium;
+    
+
+}
+
+.App h1{
+    background-color: bisque;
+    padding: 20px, 20px;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'papyrus';
+    border-color: aqua;
+    border-width: medium;
+}
